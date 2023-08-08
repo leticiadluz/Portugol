@@ -1,9 +1,9 @@
-# Exercícios do curso: Algoritmos e Lógica de Programação 2023 - O Curso COMPLETO
+### Exercícios do curso: Algoritmos e Lógica de Programação 2023 - O Curso COMPLETO
 
 Neste repositório, você encontrará alguns de exercícios selecionados que facilitaram a compreensão dos conceitos fundamentais 
 de programação e lógica de programação.
 
-# Temas Abordados:
+### Temas Abordados:
 Os exercícios presentes neste repositório são baseados no conteúdo abrangente do curso, que explora os seguintes tópicos centrais:
 
  - Variáveis: Aprenda a declarar e manipular variáveis para armazenar informações em seu programa.  
